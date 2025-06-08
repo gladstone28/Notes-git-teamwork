@@ -20,3 +20,6 @@ remotes
 Preview: Docs Loading link description
 merge
  changes together when they are ready to do so.
+
+
+![](./basic-git-workflow-diagram.jpg)
